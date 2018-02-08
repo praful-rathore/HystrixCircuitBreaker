@@ -1,2 +1,2 @@
 # HystrixCircuitBreaker
-Generic and Dynamically changing Hystrix Circuit breaker Property
+Generic Hystrix command and Dynamically changing Hystrix Circuit breaker Property
